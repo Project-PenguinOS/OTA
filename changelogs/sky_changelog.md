@@ -1,4 +1,9 @@
-## Changelog - PenguinOS Unity One - 16/07/2024
+## Changelog - PenguinOS Unity One - 24/07/2024
 
-- Fixed a issue where sometime package installer crashes.
-- Added data usage in qs footer.
+- Fixed a animation issue in home screen when theme icon is enabled.
+- Add Birghtness slider customisations.
+- Add Saner heads up toggle.
+- Redesign toggle systemwide.
+- Added system icon packs.
+- Added icon shapes.
+- Other misc changes.
