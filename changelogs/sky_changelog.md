@@ -1,3 +1,11 @@
+## Changelog - PenguinOS Unity One - 01/08/2024
+- Modified thermals configs
+- Build soundfx effects from source
+- Ship stock vol tables
+- Increase zram
+- Boot time tuning
+- Fixed device certification
+
 ## Changelog - PenguinOS Unity One - 24/07/2024
 
 - Fixed a animation issue in home screen when theme icon is enabled.
