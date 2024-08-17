@@ -1,3 +1,6 @@
+## Changelog - PenguinOS Unity One - 18/08/2024
+- Aug Patch
+
 ## Changelog - PenguinOS Unity One - 01/08/2024
 - Modified thermals configs
 - Build soundfx effects from source
