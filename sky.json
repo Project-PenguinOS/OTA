@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1789321689,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20260913-sky.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4586:163089,payload.bin:4586:1995706770,payload_properties.txt:1995711414:156,apex_info.pb:2114:1414,care_map.pb:3575:964,metadata:69:683,metadata.pb:820:1246",
+        "sha256": "0b0825b76e48fe65088880468fc96bf4d22065497473f287fe7e377f1f1ce42b",
+        "size": 1995714837,
+        "url": "https://sourceforge.net/projects/penguinos/files/sky/celerity/PenguinOS-celerity-20260913-sky.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]
