@@ -1,0 +1,46 @@
+{
+  "title": "What's new in PenguinOS",
+  "hello_subtitle": "Celerity for POCO F5",
+  "highlights": [
+    {
+      "title": "Dynamic Island",
+      "summary": "Ongoing activity and notifications appear in a pill around the camera cutout."
+    },
+    {
+      "title": "New Quick Settings styles",
+      "summary": "More ways to lay out Quick Settings, so the shade can look the way you want it to."
+    },
+    {
+      "title": "MyUI style",
+      "summary": "A new Quick Settings style, alongside the ones already there."
+    },
+    {
+      "title": "Connectivity in one place",
+      "summary": "Wi-Fi, mobile data and Bluetooth sit together in a folder, the way iOS groups them."
+    },
+    {
+      "title": "Sliders either way",
+      "summary": "Penguin QS sliders can run horizontally or vertically."
+    },
+    {
+      "title": "App drawer, your way",
+      "summary": "Pick COS or iOS in Home settings: the drawer from the bottom, or an App Library past the last home screen."
+    },
+    {
+      "title": "Search the App Library",
+      "summary": "An A-Z list with an index rail down the edge and a frosted search box at the bottom."
+    },
+    {
+      "title": "Integrity fixed",
+      "summary": "Integrity checks pass again."
+    },
+    {
+      "title": "Charging speed fixed",
+      "summary": "Charging runs at its proper speed again."
+    },
+    {
+      "title": "Under the hood",
+      "summary": "Many fixes and improvements throughout the system."
+    }
+  ]
+}
