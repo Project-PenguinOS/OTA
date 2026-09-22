@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1790077682,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20260922-peridot.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:5016:232011,payload.bin:5016:3757483138,payload_properties.txt:3757488212:156,apex_info.pb:2319:1481,care_map.pb:3847:1122,metadata:69:693,metadata.pb:830:1441",
+        "sha256": "084b17e250e55ab538ea1903f5f4408c3c4772482b9ca8d31a6a541b71080a3a",
+        "size": 3757491475,
+        "url": "https://sourceforge.net/projects/penguinos/files/peridot/celerity/PenguinOS-celerity-20260922-peridot.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]

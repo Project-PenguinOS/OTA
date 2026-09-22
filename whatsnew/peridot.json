@@ -1,0 +1,74 @@
+{
+  "title": "What's new in PenguinOS",
+  "hello_subtitle": "Celerity for POCO F6",
+  "highlights": [
+    {
+      "title": "Dynamic Island",
+      "summary": "Ongoing activity and notifications appear in a pill around the camera cutout."
+    },
+    {
+      "title": "New Quick Settings styles",
+      "summary": "More ways to lay out Quick Settings, so the shade can look the way you want it to."
+    },
+    {
+      "title": "MyUI style",
+      "summary": "A new Quick Settings style, alongside the ones already there."
+    },
+    {
+      "title": "Connectivity in one place",
+      "summary": "Wi-Fi, mobile data and Bluetooth sit together in a folder, the way iOS groups them."
+    },
+    {
+      "title": "Sliders either way",
+      "summary": "Penguin QS sliders can run horizontally or vertically."
+    },
+    {
+      "title": "App drawer, your way",
+      "summary": "Pick COS or iOS in Home settings: the drawer from the bottom, or an App Library past the last home screen."
+    },
+    {
+      "title": "Search the App Library",
+      "summary": "An A-Z list with an index rail down the edge and a frosted search box at the bottom."
+    },
+    {
+      "title": "Updated Kernel",
+      "summary": "Updated kernel to Glacium 5.0 ."
+    },
+    {
+      "title": "Thermal & Performance Fixes",
+      "summary": "Fixed thermal HAL crash causing thermal panic, and resolved micro jitters caused by thermal throttling."
+    },
+    {
+      "title": "System & UI Stability",
+      "summary": "Fixed blur dying randomly, gesture navigation issues, QS shade swipe-down opening, and app opening hangs."
+    },
+    {
+      "title": "Audio & Media Fixes",
+      "summary": "Fixed Dolby sound crashing in apps, audio crackling in games, and Bluetooth LDAC offloading."
+    },
+    {
+      "title": "Spoofing & Obscura v2",
+      "summary": "Added new TEE simulator, updated Obscura to v2, added CPU/GPU model spoofing, and Tensor spoofing."
+    },
+    {
+      "title": "Pocket Lock",
+      "summary": "Added Pocket Lock feature to prevent accidental touches."
+    },
+    {
+      "title": "Weather Integration",
+      "summary": "Added OmniJaws weather service and custom clock weather view."
+    },
+    {
+      "title": "Quick Settings & Network Toggles",
+      "summary": "Added data disable icon toggle and combined/separate mobile data icon toggle in QS."
+    },
+    {
+      "title": "System & Setup Improvements",
+      "summary": "Fixed Play Store background app updates and resolved unusually long initial setup time."
+    },
+    {
+      "title": "Under the hood",
+      "summary": "Many fixes and improvements throughout the system."
+    }
+  ]
+}
