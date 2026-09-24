@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1789575543,
+    "datetime": 1790271811,
     "files": [
       {
-        "filename": "PenguinOS-celerity-20260916-marble.zip",
+        "filename": "PenguinOS-celerity-20260924-marble.zip",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:4585:129290,payload.bin:4585:2844641178,payload_properties.txt:2844645821:156,apex_info.pb:2216:1414,care_map.pb:3677:861,metadata:69:701,metadata.pb:838:1330",
-        "sha256": "219abc2e87f4e69053663c9c98bf64ae111a73c0689c5684730de203e65b19b2",
-        "size": 2844649244,
-        "url": "https://sourceforge.net/projects/penguinos/files/marble/celerity/PenguinOS-celerity-20260916-marble.zip/download"
+        "ota_property_files": "payload_metadata.bin:4586:149832,payload.bin:4586:3435805437,payload_properties.txt:3435810081:156,apex_info.pb:2216:1414,care_map.pb:3677:862,metadata:69:701,metadata.pb:838:1330",
+        "sha256": "827807d7014c6e04134af4b39f035ede5f895cfd86d68b6fef16e985fce07e2f",
+        "size": 3435813504,
+        "url": "https://sourceforge.net/projects/penguinos/files/marble/celerity/PenguinOS-celerity-20260924-marble.zip/download"
       }
     ],
     "type": "stable",

@@ -3,44 +3,48 @@
   "hello_subtitle": "Celerity for POCO F5",
   "highlights": [
     {
-      "title": "Dynamic Island",
-      "summary": "Ongoing activity and notifications appear in a pill around the camera cutout."
+      "title": "Moments",
+      "summary": "Introduce Moments from Fairphone"
     },
     {
-      "title": "New Quick Settings styles",
-      "summary": "More ways to lay out Quick Settings, so the shade can look the way you want it to."
+      "title": "Universal search",
+      "summary": "Search apps, settings, contacts and photos"
     },
     {
-      "title": "MyUI style",
-      "summary": "A new Quick Settings style, alongside the ones already there."
+      "title": "ThemePicker",
+      "summary": "New iOS-like lock screen gallery"
     },
     {
-      "title": "Connectivity in one place",
-      "summary": "Wi-Fi, mobile data and Bluetooth sit together in a folder, the way iOS groups them."
+      "title": "Custom clocks",
+      "summary": "More styles, gradients and tuning"
     },
     {
-      "title": "Sliders either way",
-      "summary": "Penguin QS sliders can run horizontally or vertically."
+      "title": "App Library",
+      "summary": "iOS-style App Library with categories"
     },
     {
-      "title": "App drawer, your way",
-      "summary": "Pick COS or iOS in Home settings: the drawer from the bottom, or an App Library past the last home screen."
+      "title": "Outdoor mode",
+      "summary": "Introduce outdoor mode"
     },
     {
-      "title": "Search the App Library",
-      "summary": "An A-Z list with an index rail down the edge and a frosted search box at the bottom."
+      "title": "Folders",
+      "summary": "Large folders, auto-named by category"
     },
     {
-      "title": "Integrity fixed",
-      "summary": "Integrity checks pass again."
+      "title": "Wallpaper carousel",
+      "summary": "Swap wallpapers from home screen"
     },
     {
-      "title": "Charging speed fixed",
-      "summary": "Charging runs at its proper speed again."
+      "title": "Animations",
+      "summary": "Smoother app open and close"
+    },
+    {
+      "title": "Pulse",
+      "summary": "New styles and haptics"
     },
     {
       "title": "Under the hood",
-      "summary": "Many fixes and improvements throughout the system."
+      "summary": "Fixes and improvements"
     }
   ]
 }
