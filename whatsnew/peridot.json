@@ -3,72 +3,96 @@
   "hello_subtitle": "Celerity for POCO F6",
   "highlights": [
     {
-      "title": "Dynamic Island",
-      "summary": "Ongoing activity and notifications appear in a pill around the camera cutout."
+      "title": "Moments",
+      "summary": "Introduce Moments from Fairphone"
     },
     {
-      "title": "New Quick Settings styles",
-      "summary": "More ways to lay out Quick Settings, so the shade can look the way you want it to."
+      "title": "Universal search",
+      "summary": "Search apps, settings, contacts and photos"
     },
     {
-      "title": "MyUI style",
-      "summary": "A new Quick Settings style, alongside the ones already there."
+      "title": "ThemePicker",
+      "summary": "New iOS-like lock screen gallery"
     },
     {
-      "title": "Connectivity in one place",
-      "summary": "Wi-Fi, mobile data and Bluetooth sit together in a folder, the way iOS groups them."
+      "title": "Custom clocks",
+      "summary": "More styles, gradients and tuning"
     },
     {
-      "title": "Sliders either way",
-      "summary": "Penguin QS sliders can run horizontally or vertically."
+      "title": "App Library",
+      "summary": "iOS-style App Library with categories"
     },
     {
-      "title": "App drawer, your way",
-      "summary": "Pick COS or iOS in Home settings: the drawer from the bottom, or an App Library past the last home screen."
+      "title": "Outdoor mode",
+      "summary": "Introduce outdoor mode"
     },
     {
-      "title": "Search the App Library",
-      "summary": "An A-Z list with an index rail down the edge and a frosted search box at the bottom."
+      "title": "Folders",
+      "summary": "Large folders, auto-named by category"
     },
     {
-      "title": "Updated Kernel",
-      "summary": "Updated kernel to Glacium 5.0 ."
+      "title": "Wallpaper carousel",
+      "summary": "Swap wallpapers from home screen"
     },
     {
-      "title": "Thermal & Performance Fixes",
-      "summary": "Fixed thermal HAL crash causing thermal panic, and resolved micro jitters caused by thermal throttling."
+      "title": "Animations",
+      "summary": "Smoother app open and close"
     },
     {
-      "title": "System & UI Stability",
-      "summary": "Fixed blur dying randomly, gesture navigation issues, QS shade swipe-down opening, and app opening hangs."
+      "title": "Pulse",
+      "summary": "New styles and haptics"
     },
     {
-      "title": "Audio & Media Fixes",
-      "summary": "Fixed Dolby sound crashing in apps, audio crackling in games, and Bluetooth LDAC offloading."
+      "title": "HarmonyOS Quick Settings",
+      "summary": "Added the HarmonyOS-inspired Quick Settings style"
     },
     {
-      "title": "Spoofing & Obscura v2",
-      "summary": "Added new TEE simulator, updated Obscura to v2, added CPU/GPU model spoofing, and Tensor spoofing."
+      "title": "MyUI volume panel",
+      "summary": "Added the MyUI-inspired volume panel"
     },
     {
-      "title": "Pocket Lock",
-      "summary": "Added Pocket Lock feature to prevent accidental touches."
+      "title": "Expandable volume bar",
+      "summary": "Fixed issues with the expandable volume bar"
     },
     {
-      "title": "Weather Integration",
-      "summary": "Added OmniJaws weather service and custom clock weather view."
+      "title": "Split shade improvements",
+      "summary": "Improved the split notification shade and Quick Settings experience"
     },
     {
-      "title": "Quick Settings & Network Toggles",
-      "summary": "Added data disable icon toggle and combined/separate mobile data icon toggle in QS."
+      "title": "Experimental iOS media player",
+      "summary": "Added an iOS-style lockscreen media player under Experimental features"
     },
     {
-      "title": "System & Setup Improvements",
-      "summary": "Fixed Play Store background app updates and resolved unusually long initial setup time."
+      "title": "Updated kernel",
+      "summary": "Updated the kernel source to GlaciumKernel 5.0"
+    },
+    {
+      "title": "Xiaomi haptics",
+      "summary": "Implemented Xiaomi haptics with richer vibration effects"
+    },
+    {
+      "title": "Dolby AC4 audio",
+      "summary": "Fixed Dolby AC4 audio codec playback across various apps"
+    },
+    {
+      "title": "SM8635 performance tuning",
+      "summary": "Tuned EAS and the CPU energy model for improved performance and efficiency"
+    },
+    {
+      "title": "CPU scheduling improvements",
+      "summary": "Improved CPU ramp-up and ramp-down behavior, core workload balancing, and uclamp boost hints for smoother app launches and UI transitions"
+    },
+    {
+      "title": "Battery and thermal improvements",
+      "summary": "Optimized idle power consumption, deep sleep battery drain, thermal profiles, and charging thermal throttling behavior"
+    },
+    {
+      "title": "Smoother frame pacing",
+      "summary": "Fine-tuned SurfaceFlinger frame pacing for a smoother UI experience"
     },
     {
       "title": "Under the hood",
-      "summary": "Many fixes and improvements throughout the system."
+      "summary": "Fixes and improvements"
     }
   ]
 }
