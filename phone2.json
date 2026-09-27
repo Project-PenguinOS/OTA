@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1790536398,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20260927-phone2.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4679:144435,payload.bin:4679:3448281785,payload_properties.txt:3448286522:156,apex_info.pb:2292:1414,care_map.pb:3753:879,metadata:69:682,metadata.pb:819:1425",
+        "sha256": "282f4d4c38256819450a3b2db2ec29648fd68f999fc0f46bd448a9e327cc1370",
+        "size": 3448289945,
+        "url": "https://sourceforge.net/projects/penguinos/files/Pong/celerity/PenguinOS-celerity-20260927-phone2.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]

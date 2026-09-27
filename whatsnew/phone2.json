@@ -1,0 +1,74 @@
+{
+  "title": "What's new in PenguinOS",
+  "hello_subtitle": "Celerity for Nothing Phone (2)",
+  "highlights": [
+    {
+      "title": "Moments",
+      "summary": "Introduce Moments from Fairphone"
+    },
+    {
+      "title": "Universal search",
+      "summary": "Search apps, settings, contacts and photos"
+    },
+    {
+      "title": "ThemePicker",
+      "summary": "New iOS-like lock screen gallery"
+    },
+    {
+      "title": "Custom clocks",
+      "summary": "More styles, gradients and tuning"
+    },
+    {
+      "title": "App Library",
+      "summary": "iOS-style App Library with categories"
+    },
+    {
+      "title": "Outdoor mode",
+      "summary": "Introduce outdoor mode"
+    },
+    {
+      "title": "Folders",
+      "summary": "Large folders, auto-named by category"
+    },
+    {
+      "title": "Wallpaper carousel",
+      "summary": "Swap wallpapers from home screen"
+    },
+    {
+      "title": "Animations",
+      "summary": "Smoother app open and close"
+    },
+    {
+      "title": "Pulse",
+      "summary": "New styles and haptics"
+    },
+    {
+      "title": "HarmonyOS Quick Settings",
+      "summary": "Added the HarmonyOS-inspired Quick Settings style"
+    },
+    {
+      "title": "MyUI volume panel",
+      "summary": "Added the MyUI-inspired volume panel"
+    },
+    {
+      "title": "Expandable volume bar",
+      "summary": "Fixed issues with the expandable volume bar"
+    },
+    {
+      "title": "Split shade improvements",
+      "summary": "Improved the split notification shade and Quick Settings experience"
+    },
+    {
+      "title": "Experimental iOS media player",
+      "summary": "Added an iOS-style lockscreen media player under Experimental features"
+    },
+    {
+      "title": "Nothing Camera",
+      "summary": "The NothingOS camera replaces Aperture, portrait mode included"
+    },
+    {
+      "title": "Under the hood",
+      "summary": "Fixes and improvements"
+    }
+  ]
+}
