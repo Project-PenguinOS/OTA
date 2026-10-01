@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1790828265,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20261001-oneplus12r.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:5018:202927,payload.bin:5018:3464458667,payload_properties.txt:3464463743:156,apex_info.pb:2420:1414,care_map.pb:3881:1090,metadata:69:695,metadata.pb:832:1540",
+        "sha256": "8c2ba69500bfa48c904852825f461ff251d1818336d43d6b02519474933666a8",
+        "size": 3464467166,
+        "url": "https://sourceforge.net/projects/penguinos/files/aston/celerity/PenguinOS-celerity-20261001-oneplus12r.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]
