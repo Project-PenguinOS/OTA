@@ -3,68 +3,40 @@
   "hello_subtitle": "Celerity for Nothing Phone (2)",
   "highlights": [
     {
-      "title": "Moments",
-      "summary": "Introduce Moments from Fairphone"
+      "title": "Liquid Glass",
+      "summary": "Refracting glass on Quick Settings, notifications, folders and the dock"
     },
     {
-      "title": "Universal search",
-      "summary": "Search apps, settings, contacts and photos"
+      "title": "Recents styles",
+      "summary": "Carousel, tilt, grid, vertical, slim and mini layouts"
     },
     {
-      "title": "ThemePicker",
-      "summary": "New iOS-like lock screen gallery"
+      "title": "OneUI style",
+      "summary": "A OneUI-inspired Quick Settings style with its own editor"
     },
     {
-      "title": "Custom clocks",
-      "summary": "More styles, gradients and tuning"
+      "title": "Control Centre",
+      "summary": "Search and add controls from a reworked Control Centre editor"
     },
     {
-      "title": "App Library",
-      "summary": "iOS-style App Library with categories"
+      "title": "Wonderland",
+      "summary": "Layered wallpapers you build and edit in Penguin Laboratory"
     },
     {
-      "title": "Outdoor mode",
-      "summary": "Introduce outdoor mode"
+      "title": "Edge lighting",
+      "summary": "Edge lighting, now configured in Penguin Laboratory"
     },
     {
-      "title": "Folders",
-      "summary": "Large folders, auto-named by category"
+      "title": "Desktop mode",
+      "summary": "A desktop on external and cast displays"
     },
     {
-      "title": "Wallpaper carousel",
-      "summary": "Swap wallpapers from home screen"
+      "title": "Dirac sound",
+      "summary": "Dirac tuning for the speaker and headphones"
     },
     {
-      "title": "Animations",
-      "summary": "Smoother app open and close"
-    },
-    {
-      "title": "Pulse",
-      "summary": "New styles and haptics"
-    },
-    {
-      "title": "HarmonyOS Quick Settings",
-      "summary": "Added the HarmonyOS-inspired Quick Settings style"
-    },
-    {
-      "title": "MyUI volume panel",
-      "summary": "Added the MyUI-inspired volume panel"
-    },
-    {
-      "title": "Expandable volume bar",
-      "summary": "Fixed issues with the expandable volume bar"
-    },
-    {
-      "title": "Split shade improvements",
-      "summary": "Improved the split notification shade and Quick Settings experience"
-    },
-    {
-      "title": "Experimental iOS media player",
-      "summary": "Added an iOS-style lockscreen media player under Experimental features"
-    },
-    {
-      "title": "Nothing Camera",
-      "summary": "The NothingOS camera replaces Aperture, portrait mode included"
+      "title": "Kernel 6.12",
+      "summary": "Upgraded to Linux 6.12 with newer audio, video, display and sensor stacks"
     },
     {
       "title": "Under the hood",
