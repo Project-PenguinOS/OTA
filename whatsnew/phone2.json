@@ -3,40 +3,44 @@
   "hello_subtitle": "Celerity for Nothing Phone (2)",
   "highlights": [
     {
-      "title": "Liquid Glass",
-      "summary": "Refracting glass on Quick Settings, notifications, folders and the dock"
-    },
-    {
-      "title": "Recents styles",
-      "summary": "Carousel, tilt, grid, vertical, slim and mini layouts"
-    },
-    {
-      "title": "OneUI style",
-      "summary": "A OneUI-inspired Quick Settings style with its own editor"
-    },
-    {
-      "title": "Control Centre",
-      "summary": "Search and add controls from a reworked Control Centre editor"
+      "title": "iOS lock screen album art",
+      "summary": "Tap the lock screen artwork to fill the screen, with Apple Music motion art looping behind it"
     },
     {
       "title": "Wonderland",
       "summary": "Layered wallpapers you build and edit in Penguin Laboratory"
     },
     {
-      "title": "Edge lighting",
-      "summary": "Edge lighting, now configured in Penguin Laboratory"
+      "title": "One UI Quick Settings",
+      "summary": "One UI style Quick Settings with the split shade"
     },
     {
-      "title": "Desktop mode",
-      "summary": "A desktop on external and cast displays"
+      "title": "Floating depth wallpaper",
+      "summary": "The lock screen clock floats between wallpaper and subject as you tilt"
     },
     {
-      "title": "Dirac sound",
-      "summary": "Dirac tuning for the speaker and headphones"
+      "title": "Back to app",
+      "summary": "Jump back to the app you came from from the status bar"
     },
     {
-      "title": "Kernel 6.12",
-      "summary": "Upgraded to Linux 6.12 with newer audio, video, display and sensor stacks"
+      "title": "Frequent apps in recents",
+      "summary": "Your four most used apps this week, below recent apps"
+    },
+    {
+      "title": "Smooth animations everywhere",
+      "summary": "App animations run on the render thread so they keep moving when an app is busy"
+    },
+    {
+      "title": "COS experience",
+      "summary": "ColorOS app, recents and shade motion, glass Quick Settings, volume panel and media lights"
+    },
+    {
+      "title": "COS lock screen",
+      "summary": "Glass lock screen, full-screen artwork player and a Fluid Clock that flies to the home screen"
+    },
+    {
+      "title": "Liquid Glass styles",
+      "summary": "Choose between iOS and ColorOS Liquid Glass"
     },
     {
       "title": "Under the hood",

@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1791737242,
+    "datetime": 1792959917,
     "files": [
       {
-        "filename": "PenguinOS-celerity-20261012-gms-phone2.zip",
+        "filename": "PenguinOS-celerity-20261025-gms-phone2.zip",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:4746:146248,payload.bin:4746:3508296330,payload_properties.txt:3508301134:156,apex_info.pb:2292:1480,care_map.pb:3819:880,metadata:69:682,metadata.pb:819:1425",
-        "sha256": "b62a44b41d7633998c6965f3e90499b819d509895eb984428fa36815a53a14fa",
-        "size": 3508304557,
-        "url": "https://sourceforge.net/projects/penguinos/files/Pong/celerity/PenguinOS-celerity-20261012-gms-phone2.zip/download"
+        "ota_property_files": "payload_metadata.bin:4746:147785,payload.bin:4746:3547004288,payload_properties.txt:3547009092:156,apex_info.pb:2292:1480,care_map.pb:3819:880,metadata:69:682,metadata.pb:819:1425",
+        "sha256": "29637d0d376f41f8a0986ff773785dfedd3ef94b25328735338a540345201db5",
+        "size": 3547012515,
+        "url": "https://sourceforge.net/projects/penguinos/files/Pong/celerity/PenguinOS-celerity-20261025-gms-phone2.zip/download"
       }
     ],
     "type": "stable",
