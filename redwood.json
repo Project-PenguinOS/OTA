@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1791469783,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-redwood-20261008-2050.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4542:203695,payload.bin:4542:2774475514,payload_properties.txt:2774480114:156,apex_info.pb:2194:1414,care_map.pb:3655:840,metadata:69:700,metadata.pb:837:1309",
+        "sha256": "928e6477ee32475f37e1438084a32c1b3c2fe0798e416f9707740b50b5c914de",
+        "size": 2774484557,
+        "url": "https://sourceforge.net/projects/builds-by-suvojeet/files/PenguinOS/redwood/20261008/PenguinOS-celerity-redwood-20261008-2050.zip/download"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]
