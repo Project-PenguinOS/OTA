@@ -1,0 +1,50 @@
+{
+  "title": "What's new in PenguinOS",
+  "hello_subtitle": "Celerity for OnePlus 13",
+  "highlights": [
+    {
+      "title": "iOS lock screen album art",
+      "summary": "Tap the lock screen artwork to fill the screen, with Apple Music motion art looping behind it"
+    },
+    {
+      "title": "Wonderland",
+      "summary": "Layered wallpapers you build and edit in Penguin Laboratory"
+    },
+    {
+      "title": "One UI Quick Settings",
+      "summary": "One UI style Quick Settings with the split shade"
+    },
+    {
+      "title": "Floating depth wallpaper",
+      "summary": "The lock screen clock floats between wallpaper and subject as you tilt"
+    },
+    {
+      "title": "Back to app",
+      "summary": "Jump back to the app you came from from the status bar"
+    },
+    {
+      "title": "Frequent apps in recents",
+      "summary": "Your four most used apps this week, below recent apps"
+    },
+    {
+      "title": "Smooth animations everywhere",
+      "summary": "App animations run on the render thread so they keep moving when an app is busy"
+    },
+    {
+      "title": "COS experience",
+      "summary": "ColorOS app, recents and shade motion, glass Quick Settings, volume panel and media lights"
+    },
+    {
+      "title": "COS lock screen",
+      "summary": "Glass lock screen, full-screen artwork player and a Fluid Clock that flies to the home screen"
+    },
+    {
+      "title": "Liquid Glass styles",
+      "summary": "Choose between iOS and ColorOS Liquid Glass"
+    },
+    {
+      "title": "Under the hood",
+      "summary": "Fixes and improvements"
+    }
+  ]
+}
