@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1793633564,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20261103-gms-dodge-signed.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:5712:331333,payload.bin:5712:4898076160,payload_properties.txt:4898081930:156,apex_info.pb:2391:1508,care_map.pb:3946:1699,metadata:69:700,metadata.pb:837:1506",
+        "sha256": "2235e617fdb4b1f50c7ca0b907f3b5275551e74280baffe396ba29fc2eb10413",
+        "size": 4898085105,
+        "url": "https://sourceforge.net/projects/penguinos/files/dodge/celerity/PenguinOS-celerity-20261103-gms-dodge-signed.zip/download"
+      }
+    ],
+    "type": "official",
+    "version": "celerity"
+  }
+]
